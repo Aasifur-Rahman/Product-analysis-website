@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Cherry Hale",
+        "id": "1",
+        "photo": "http://placehold.it/32x32",
+        "rating": "5",
+        "comment": "What a great service this page provides. Outstanding camera products."
+    },
+    {
+        "name": "April Fitzpatrick",
+        "id": "2",
+        "photo": "http://placehold.it/32x32",
+        "rating": "4",
+        "comment": "The product is out standing but, delivery service can be better."
+    },
+    {
+        "name": "Hurley Douglas",
+        "id": "3",
+        "photo": "http://placehold.it/32x32",
+        "rating": "5",
+        "comment": "What a marvelous product best in the budget."
+    },
+    {
+        "name": "Melba Murray",
+        "id": "4",
+        "photo": "http://placehold.it/32x32",
+        "rating": "4.5",
+        "comment": "An awesome product to buy."
+    },
+    {
+        "name": "Cathryn Moon",
+        "id": "5",
+        "photo": "http://placehold.it/32x32",
+        "rating": "5",
+        "comment": "I highly recommend this page to others and the product they recommend in your budget."
+    },
+    {
+        "name": "Adkins Whitley",
+        "id": "6",
+        "photo": "http://placehold.it/32x32",
+        "rating": "4.5",
+        "comment": "Quality product and great service, me saying great service is not always you see."
+    }
+]

@@ -5,12 +5,12 @@ import './Header.css';
 const Header = () => {
     return (
         <div>
-            <nav>
+            <nav className='container-fluid'>
                 <Link to='/home'>Home</Link>
                 <Link to='/reviews'>Reviews</Link>
                 <Link to='/dashboard'>Dashboard</Link>
                 <Link to='/blogs'>Blogs</Link>
-                <Link to='/about'>About</Link>
+                <Link className='about' to='/about'>About</Link>
             </nav>
         </div>
     );
