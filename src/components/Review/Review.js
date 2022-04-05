@@ -8,7 +8,7 @@ const Review = (props) => {
                 <div className="col">
                     <div className="card h-100 ">
                         <img className='p-3' width='100%' src={photo} alt="" />
-                        <div className="card-body">
+                        <div className="card-body w-100">
                             <p><small className='text-muted'>ID: {id}</small></p>
                             <h5 className="card-title">Name: {name}</h5>
                             <p>Rating: {rating}</p>

@@ -1,5 +1,10 @@
 import React from 'react';
 import camera from '../../images/camera.jpg'
+import ThreeReviews from '../ThreeReviews/ThreeReviews';
+
+// import Review from '../Review/Review';
+// import Reviews from '../Reviews/Reviews';
+import useReview from '../useReview/useReview';
 import './Home.css'
 
 const Home = () => {
@@ -21,7 +26,9 @@ const Home = () => {
             <div>
                 <h1 className='display-3 fw-normal'>Customer's <span className='special-color'>Review</span></h1>
             </div>
-
+            <div>
+                <ThreeReviews></ThreeReviews>
+            </div>
 
         </div>
     );
