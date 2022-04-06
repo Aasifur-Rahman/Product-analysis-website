@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import camera from '../../images/camera.jpg'
 import ThreeReviews from '../ThreeReviews/ThreeReviews';
 
@@ -28,6 +29,9 @@ const Home = () => {
             </div>
             <div>
                 <ThreeReviews></ThreeReviews>
+            </div>
+            <div className='text-center mt-4 mb-4'>
+                <Link className='full-reviews' to="/reviews" >Show all reviews</Link>
             </div>
 
         </div>
